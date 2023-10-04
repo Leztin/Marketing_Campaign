@@ -3,7 +3,7 @@ title: "Análisis y clusterización de una campaña de marketing"
 description: |
   Aplicando técnicas de reducción de dimensiones y métodos de clustering a marketing_campaign.csv
 author:
-  - name: Iván González y Qiqi Zhou
+  - name: Iván González
     affiliation: Universidad Complutense de Madrid
     affiliation_url: https://ucm.es
 date: "`r Sys.Date()`"
@@ -24,30 +24,6 @@ editor_options:
 knitr::opts_chunk$set(message = FALSE, warning = FALSE,
                       echo = TRUE, res = 400)
 ```
-
-# Contribuciones
-
-**Qiqi:**
-
--   Fase 5 - Tarea 2: Análisis estadístico
-
-**Iván:**
-
--   Fase 1: Exploración de los datos y análisis preliminar
-
--   Fase 2: Muestreo y modificación de los datos
-
--   Fase 5 - Tarea 1: Análisis exploratorio de los datos
-
--   Fase 5 - Tarea 3: Visualización de los datos
-
--   Fase 5 - Tarea 4: Recomendaciones y conclusiones
-
-**Tareas conjuntas:**
-
--   Fase 3: Aplicación de técnicas de reducción de dimensiones
-
--   Fase 4: Análisis clúster
 
 # Objetivo
 
