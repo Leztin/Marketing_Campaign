@@ -10,4 +10,4 @@ El **objetivo** de esta práctica es **definir y acotar** las distintas **tipolo
 
 ## Algoritmos utilizados
 
-Se han aplicado **técnicas de reducción de dimensiones (ACP)** y métodos de clustering. En concreto, se ha empleado el **algoritmo K-Medias**, el **método de Ward para conglomerados jerárquicos**, el **modelo RFM** (Recency, Frequency, Monetary) y algunas variantes respecto de este último modelo.
+Se han aplicado **técnicas de reducción de dimensiones (ACP)** y métodos de clustering. En concreto, se ha empleado el **algoritmo K-Medias**, el **método de Ward para conglomerados jerárquicos**, el **modelo RFM** (Recency, Frequency, Monetary) y algunas variantes respecto de este último modelo. R.
